@@ -1,6 +1,7 @@
 # [Morse Code Translator](#) with Audio - Morse Decoder
 
-[![npm-version]][npm] [![npm-downloads]][npm]
+[![npm-version]][npm] [![npm-downloads]][npm]<br><br>
+<a href="https://www.buymeacoffee.com/arosck1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=arosck1&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Morse code encoder and decoder with no dependencies. It supports Latin, Cyrillic, Greek, Hebrew, Arabic,
 Persian, Japanese, Korean, and Thai, with audio-generation functionality using the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
